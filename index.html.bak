@@ -30,9 +30,11 @@ crossorigin="anonymous"></script>
           <div style="text-align: right;"><br>
           </div>
           <div style="text-align: center;">
-            <div style="text-align: right;"><strong></strong><strong>
-                <h1 style="text-align: right;">CONTENT EDITOR</h1>
-              </strong></div>
+            <div style="text-align: right;"><strong></strong><strong> </strong>
+              <div style="text-align: right;"><strong>
+                  <h1 style="text-align: right;">CONTENT EDITOR</h1>
+                </strong></div>
+              <strong> </strong></div>
             <strong></strong><strong></strong><strong></strong><strong> </strong></div>
           <strong>
             <p><br>
@@ -99,7 +101,7 @@ crossorigin="anonymous"></script>
           <div class="col-md-4">
             <p> Photoshop </p>
           </div>
-          <div class="col-md-8"> <img src="images/Star_rating_4.5_of_5.png" hight="250"
+          <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
               width="250"></div>
           <div class="col-md-8"><br>
           </div>
@@ -108,7 +110,7 @@ crossorigin="anonymous"></script>
           <div class="col-md-4">
             <p> Final Cut Pro </p>
           </div>
-          <div class="col-md-8"> <img src="images/Star_rating_5_of_5.png" hight="250"
+          <div class="col-md-8"> <img src="images/star_rating_5_of_5.png" hight="250"
               width="250"></div>
           <div class="col-md-8"><br>
           </div>
@@ -117,7 +119,7 @@ crossorigin="anonymous"></script>
           <div class="col-md-4">
             <p>Writing Skills</p>
           </div>
-          <div class="col-md-8"> <img src="images/Star_rating_4.5_of_5.png" hight="250"
+          <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
               width="250"></div>
           <div class="col-md-8"><br>
           </div>
@@ -126,7 +128,7 @@ crossorigin="anonymous"></script>
           <div class="col-md-4">
             <p> Adobe Premiere Pro </p>
           </div>
-          <div class="col-md-8"> <img src="images/Star_rating_3_of_5.png" hight="250"
+          <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
               width="250"></div>
           <div class="col-md-8"><br>
           </div>
@@ -135,7 +137,7 @@ crossorigin="anonymous"></script>
           <div class="col-md-4">
             <p> Illustrator </p>
           </div>
-          <div class="col-md-8"> <img src="images/Star_rating_3_of_5.png" hight="250"
+          <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
               width="250"></div>
           <div class="col-md-8"><br>
           </div>
