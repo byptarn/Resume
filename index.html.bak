@@ -47,124 +47,124 @@ crossorigin="anonymous"></script>
         <div class="col-md-5"><br>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6"> <strong>PERSONAL PROFILE <br>
-        </strong>
-        <p> Possessing 2 years of experience in the development and </p>
-        <p> presentation of social media content for cosmetics </p>
-        <p> and fashion brands. Familiar with web technologies and content </p>
-        <p> management systems. Exceptional writing and editing skills. </p>
-      </div>
-      <div class="col-md-6"> <strong> CONTACT </strong> <br>
-        <div class="row">
-          <div class="col-md-4"> <img src="images/384547571_346657797889729_8943497166121417287_n.png"
-              class="rounded-circle" hight="100" width="100"></div>
-          <div class="col-md-8">
-            <p>092-621-8540 </p>
-          </div>
+      <div class="row">
+        <div class="col-md-6"> <strong>PERSONAL PROFILE <br>
+          </strong>
+          <p> Possessing 2 years of experience in the development and
+            presentation of social media content for cosmetics and fashion
+            brands. Familiar with web technologies and content management
+            systems. Exceptional writing and editing skills. </p>
         </div>
-        <div class="row">
-          <div class="col-md-4"> <img src="images/384550355_608943291199789_1700415811160254770_n.png"
-              class="rounded-circle" hight="100" width="100"> </div>
-          <div class="col-md-8">
-            <p>Byptxrn93@gmail.com </p>
+        <div class="col-md-6"> <strong> CONTACT </strong> <br>
+          <div class="row">
+            <div class="col-md-4"> <img src="images/384547571_346657797889729_8943497166121417287_n.png"
+                class="rounded-circle" hight="100" width="100"></div>
+            <div class="col-md-8">
+              <p>092-621-8540 </p>
+            </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4"> <img src="images/334598789_1301453017101942_344091062117771948_n.png"
-              class="rounded-circle" hight="100" width="100"> </div>
-          <div class="col-md-8">
-            <p>164/216 Nakhon Pathom Condo 1, Sanamchan Rd, Tambon Sanamchan,
-              Mueang Nakhon Pathom District, Nakhon Pathom 73000 </p>
-            <p><br>
-            </p>
+          <div class="row">
+            <div class="col-md-4"> <img src="images/384550355_608943291199789_1700415811160254770_n.png"
+                class="rounded-circle" hight="100" width="100"> </div>
+            <div class="col-md-8">
+              <p>Byptxrn93@gmail.com </p>
+            </div>
           </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6"><strong>WORK EXPERIENCE </strong>
-        <p>Internship at the central library of Silpakorn university</p>
-        <p> Nakhon Pathom, Thailand (September - October 2023)</p>
-        <p><br>
-        </p>
-        <p> Content Writer, H&amp;M Thailand </p>
-        <p> Bangkok, Thailand (2023-2024)</p>
-        <p><br>
-        </p>
-        <p>Content Editor at 4u2 Cosmetic</p>
-        <p>Bangkok, Thailand (2024-Present)</p>
-      </div>
-      <div class="col-md-6"> <strong> SKILLS SUMMARY </strong>
-        <div class="row">
-          <div class="col-md-4">
-            <p> Photoshop </p>
-          </div>
-          <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
-              width="250"></div>
-          <div class="col-md-8"><br>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4">
-            <p> Final Cut Pro </p>
-          </div>
-          <div class="col-md-8"> <img src="images/star_rating_5_of_5.png" hight="250"
-              width="250"></div>
-          <div class="col-md-8"><br>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4">
-            <p>Writing Skills</p>
-          </div>
-          <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
-              width="250"></div>
-          <div class="col-md-8"><br>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4">
-            <p> Adobe Premiere Pro </p>
-          </div>
-          <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
-              width="250"></div>
-          <div class="col-md-8"><br>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4">
-            <p> Illustrator </p>
-          </div>
-          <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
-              width="250"></div>
-          <div class="col-md-8"><br>
-          </div>
-          <div class="col-md-8"><br>
+          <div class="row">
+            <div class="col-md-4"> <img src="images/334598789_1301453017101942_344091062117771948_n.png"
+                class="rounded-circle" hight="100" width="100"> </div>
+            <div class="col-md-8">
+              <p>164/216 Nakhon Pathom Condo 1, Sanamchan Rd, Tambon Sanamchan,
+                Mueang Nakhon Pathom District, Nakhon Pathom 73000 </p>
+              <p><br>
+              </p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3"><strong>EDUCATION </strong>
-        <p>Sirindhorn School</p>
-        <p>Surin, Thailand </p>
-        <p>2018-2020</p>
-        <p>Science-Math</p>
-        <p>GPA: 3.49</p>
+      <div class="row">
+        <div class="col-md-6"><strong>WORK EXPERIENCE </strong>
+          <p>Internship at the central library of Silpakorn university</p>
+          <p> Nakhon Pathom, Thailand (September - October 2023)</p>
+          <p><br>
+          </p>
+          <p> Content Writer, H&amp;M Thailand </p>
+          <p> Bangkok, Thailand (2023-2024)</p>
+          <p><br>
+          </p>
+          <p>Content Editor at 4u2 Cosmetic</p>
+          <p>Bangkok, Thailand (2024-Present)</p>
+        </div>
+        <div class="col-md-6"> <strong> SKILLS SUMMARY </strong>
+          <div class="row">
+            <div class="col-md-4">
+              <p> Photoshop </p>
+            </div>
+            <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
+                width="250"></div>
+            <div class="col-md-8"><br>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <p> Final Cut Pro </p>
+            </div>
+            <div class="col-md-8"> <img src="images/star_rating_5_of_5.png" hight="250"
+                width="250"></div>
+            <div class="col-md-8"><br>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <p>Writing Skills</p>
+            </div>
+            <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
+                width="250"></div>
+            <div class="col-md-8"><br>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <p> Adobe Premiere Pro </p>
+            </div>
+            <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
+                width="250"></div>
+            <div class="col-md-8"><br>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <p> Illustrator </p>
+            </div>
+            <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
+                width="250"></div>
+            <div class="col-md-8"><br>
+            </div>
+            <div class="col-md-8"><br>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="col-md-3">
-        <p><br>
-        </p>
-        <p>Silpakorn University </p>
-        <p>Nakhon Pathom, Thailand</p>
-        <p>2021-2024</p>
-        <p>Faculty of Arts</p>
-        <p>GPA: 3.59</p>
-      </div>
-      <div class="col-md-3"> <strong> UNIVERSITY ACTIVITIES </strong>
-        <p> Facebook admin of Tabkaew Viriety Silpakorn University</p>
+      <div class="row">
+        <div class="col-md-3"><strong>EDUCATION </strong>
+          <p>Sirindhorn School</p>
+          <p>Surin, Thailand </p>
+          <p>2018-2020</p>
+          <p>Science-Math</p>
+          <p>GPA: 3.49</p>
+        </div>
+        <div class="col-md-3">
+          <p><br>
+          </p>
+          <p>Silpakorn University </p>
+          <p>Nakhon Pathom, Thailand</p>
+          <p>2021-2024</p>
+          <p>Faculty of Arts</p>
+          <p>GPA: 3.59</p>
+        </div>
+        <div class="col-md-3"> <strong> UNIVERSITY ACTIVITIES </strong>
+          <p> Facebook admin of Tabkaew Viriety Silpakorn University</p>
+        </div>
       </div>
     </div>
   </body>
