@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Resume | Content Editor</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous">
@@ -16,24 +16,52 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&amp;display=swap"
       rel="stylesheet">
+    <meta name="description" content="Resume of a content editor &quot;Benyapha Butthes&quot;">
+    <meta name="keywords" content="Resume , Content editor , Silpakorn university , Benyapha Butthes">
   </head>
   <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 crossorigin="anonymous"></script>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid left"> <a class="navbar-brand" href="#">Home</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item"> <a class="nav-link" href="https://web.facebook.com/benyapa.buttesh">Facebook</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="https://www.instagram.com/byptarn/">Instagram</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
     <div class="container">
       <div class="row">
         <div class="col-md-7">
           <h1 style="text-align: right;"><br>
           </h1>
-          <h1 style="text-align: right;">BENYAPHA BUTTHES</h1>
-          <div style="text-align: right;"><br>
-          </div>
+          <h1 style="text-align: right;"><span style="color: #84a6cc;"><br>
+            </span> </h1>
+          <span style="color: #84a6cc;"> </span>
+          <h1 style="text-align: right;"><br>
+            <span style="color: #84a6cc;"></span></h1>
+          <h1 style="text-align: center;"><span style="color: #84a6cc;">BENYAPHA
+              BUTTHES</span></h1>
+          <div style="text-align: center;"><span style="color: #84a6cc;"> </span><span
+              style="color: #84a6cc;"> </span></div>
           <div style="text-align: center;">
-            <div style="text-align: right;"><strong></strong><strong> </strong>
-              <div style="text-align: right;"><strong>
-                  <h1 style="text-align: right;">CONTENT EDITOR</h1>
-                </strong></div>
+            <div style="text-align: center;"><span style="color: #84a6cc;"> </span></div>
+            <div style="text-align: right;">
+              <div style="text-align: center;"><span style="color: #84a6cc;"> </span></div>
+              <div style="text-align: right;">
+                <div style="text-align: center;"><span style="color: #84a6cc;">
+                  </span></div>
+                <h1 style="text-align: center;"><span style="color: #b37353;">CONTENT
+                    EDITOR</span></h1>
+                <strong> </strong></div>
               <strong> </strong></div>
             <strong></strong><strong></strong><strong></strong><strong> </strong></div>
           <strong>
@@ -42,40 +70,72 @@ crossorigin="anonymous"></script>
             <p><br>
             </p>
           </strong> </div>
-        <div class="col-md-5"> <img src="images/384547018_1242934183770712_2892844786454767369_n.jpg"
-            class="img-thumbnail" hight="350" width="400"></div>
-        <div class="col-md-5"><br>
+        <div class="col-md-5"><span class="border border-orange"></span>
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button"
+                data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button> </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active"> <img src="images/byp1.jpg" class="d-block w-100"
+                  alt="..."> </div>
+              <div class="carousel-item"> <img src="images/byp2.jpg" class="d-block w-100"
+                  alt="..."> </div>
+              <div class="carousel-item"> <img src="images/byp3.jpg" class="d-block w-100"
+                  alt="..."> </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span> </button> <button
+              class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span> </button> </div>
+          <div class="col-md-5"><br>
+          </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6"> <strong>PERSONAL PROFILE <br>
-          </strong>
-          <p> Possessing 2 years of experience in the development and
-            presentation of social media content for cosmetics and fashion
-            brands. Familiar with web technologies and content management
-            systems. Exceptional writing and editing skills. </p>
+        <div class="col-md-6 bg"><br>
+          <div style="margin-left: 40px;"><span style="color: #8e5b42;"><strong><br>
+              </strong></span></div>
+          <div style="margin-left: 40px;"><span style="color: #8e5b42;"><strong><br>
+              </strong></span></div>
+          <div style="margin-left: 40px;"><span style="color: #8e5b42;"><strong>PERSONAL
+                PROFILE </strong></span><br>
+            <span style="color: #8e5b42;"><strong> </strong> </span> </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;">
+              Possessing 2 years of experience in the development and
+              presentation of social media content for cosmetics
+              and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              fashion brands. Familiar with web technologies and content
+              management systems. Exceptional writing</span><span style="color: #8e5b42;">
+              and editing skills. </span></p>
         </div>
-        <div class="col-md-6"> <strong> CONTACT </strong> <br>
+        <div class="col-md-6 bgg"> <strong> <span style="color: #8e5b42;">CONTACT
+              </span><span style="color: #8e5b42;"></span></strong> <br>
           <div class="row">
             <div class="col-md-4"> <img src="images/384547571_346657797889729_8943497166121417287_n.png"
                 class="rounded-circle" hight="100" width="100"></div>
             <div class="col-md-8">
-              <p>092-621-8540 </p>
+              <p><span style="color: #8e5b42;">092-621-8540 </span></p>
+              <p><br>
+              </p>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4"> <img src="images/384550355_608943291199789_1700415811160254770_n.png"
                 class="rounded-circle" hight="100" width="100"> </div>
             <div class="col-md-8">
-              <p>Byptxrn93@gmail.com </p>
+              <p><span style="color: #8e5b42;">Byptxrn93@gmail.com </span></p>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4"> <img src="images/334598789_1301453017101942_344091062117771948_n.png"
                 class="rounded-circle" hight="100" width="100"> </div>
             <div class="col-md-8">
-              <p>164/216 Nakhon Pathom Condo 1, Sanamchan Rd, Tambon Sanamchan,
-                Mueang Nakhon Pathom District, Nakhon Pathom 73000 </p>
+              <p><span style="color: #8e5b42;">164/216 Nakhon Pathom Condo 1,
+                  Sanamchan Rd, Tambon Sanamchan, Mueang Nakhon Pathom District,
+                  Nakhon Pathom 73000 </span></p>
               <p><br>
               </p>
             </div>
@@ -83,22 +143,47 @@ crossorigin="anonymous"></script>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6"><strong>WORK EXPERIENCE </strong>
-          <p>Internship at the central library of Silpakorn university</p>
-          <p> Nakhon Pathom, Thailand (September - October 2023)</p>
-          <p><br>
-          </p>
-          <p> Content Writer, H&amp;M Thailand </p>
-          <p> Bangkok, Thailand (2023-2024)</p>
-          <p><br>
-          </p>
-          <p>Content Editor at 4u2 Cosmetic</p>
-          <p>Bangkok, Thailand (2024-Present)</p>
+        <div class="col-md-6 bgg">
+          <div style="margin-left: 40px;"><span style="color: #8e5b42;"><strong><br>
+              </strong></span></div>
+          <div style="margin-left: 40px;"><span style="color: #8e5b42;"><strong>WORK
+                EXPERIENCE </strong> </span> </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;">Internship
+              at the central library of Silpakorn university</span></p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;"> Nakhon
+              Pathom, Thailand (September - October 2023)</span></p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;"><br>
+            </span> </p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;"> Content
+              Writer, H&amp;M Thailand </span></p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;"> Bangkok,
+              Thailand (2023-2024)</span></p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;"><br>
+            </span> </p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;">Content
+              Editor at 4u2 Cosmetic</span></p>
+          <div style="margin-left: 40px;"> <span style="color: #8e5b42;"> </span>
+          </div>
+          <p style="margin-left: 40px;"><span style="color: #8e5b42;">Bangkok,
+              Thailand (2024-Present)</span></p>
         </div>
-        <div class="col-md-6"> <strong> SKILLS SUMMARY </strong>
-          <div class="row">
-            <div class="col-md-4">
-              <p> Photoshop </p>
+        <div class="col-md-6 bg"> <strong> <span style="color: #8e5b42;">SKILLS
+              SUMMARY </span></strong><span style="color: #8e5b42;"> </span>
+          <div class="row"><span style="color: #8e5b42;"> </span>
+            <div class="col-md-4"><span style="color: #8e5b42;"> </span>
+              <p><span style="color: #8e5b42;"> Photoshop</span> </p>
             </div>
             <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
                 width="250"></div>
@@ -107,7 +192,7 @@ crossorigin="anonymous"></script>
           </div>
           <div class="row">
             <div class="col-md-4">
-              <p> Final Cut Pro </p>
+              <p> <span style="color: #8e5b42;">Final Cut Pro</span> </p>
             </div>
             <div class="col-md-8"> <img src="images/star_rating_5_of_5.png" hight="250"
                 width="250"></div>
@@ -116,7 +201,7 @@ crossorigin="anonymous"></script>
           </div>
           <div class="row">
             <div class="col-md-4">
-              <p>Writing Skills</p>
+              <p><span style="color: #8e5b42;">Writing Skills</span></p>
             </div>
             <div class="col-md-8"> <img src="images/star_rating_4.5_of_5.png" hight="250"
                 width="250"></div>
@@ -125,7 +210,7 @@ crossorigin="anonymous"></script>
           </div>
           <div class="row">
             <div class="col-md-4">
-              <p> Adobe Premiere Pro </p>
+              <p> <span style="color: #8e5b42;">Adobe Premiere Pro </span></p>
             </div>
             <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
                 width="250"></div>
@@ -134,7 +219,7 @@ crossorigin="anonymous"></script>
           </div>
           <div class="row">
             <div class="col-md-4">
-              <p> Illustrator </p>
+              <p> <span style="color: #8e5b42;">Illustrator </span></p>
             </div>
             <div class="col-md-8"> <img src="images/star_rating_3_of_5.png" hight="250"
                 width="250"></div>
@@ -144,26 +229,47 @@ crossorigin="anonymous"></script>
             </div>
           </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-3"><strong>EDUCATION </strong>
-          <p>Sirindhorn School</p>
-          <p>Surin, Thailand </p>
-          <p>2018-2020</p>
-          <p>Science-Math</p>
-          <p>GPA: 3.49</p>
-        </div>
-        <div class="col-md-3">
-          <p><br>
-          </p>
-          <p>Silpakorn University </p>
-          <p>Nakhon Pathom, Thailand</p>
-          <p>2021-2024</p>
-          <p>Faculty of Arts</p>
-          <p>GPA: 3.59</p>
-        </div>
-        <div class="col-md-3"> <strong> UNIVERSITY ACTIVITIES </strong>
-          <p> Facebook admin of Tabkaew Viriety Silpakorn University</p>
+        <div class="row">
+          <div class="col-md-6 bg">
+            <div style="margin-left: 40px;"><span style="color: #8e5b42;"><strong>&nbsp;&nbsp;
+                  EDUCATION </strong> </span> </div>
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
+                    aria-expanded="false" aria-controls="flush-collapseOne"> <span
+                      style="color: #cc6600;">High School </span></button> </h2>
+                <div id="flush-collapseOne" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">Sirindhorn School <br>
+                    Surin, Thailand <br>
+                    2018-2020 <br>
+                    Science-Math <br>
+                    GPA: 3.49 </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo"
+                    aria-expanded="false" aria-controls="flush-collapseTwo"> <span
+                      style="color: #cc6600;">Bachelor's Degree </span></button>
+                </h2>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">Silpakorn University <br>
+                    Nakhon Pathom, Thailand <br>
+                    2021-2024 <br>
+                    Faculty of Arts <br>
+                    GPA: 3.59 </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 bgg">&nbsp; <span style="color: #8e5b42;"><strong>
+              </strong><strong>UNIVERSITY ACTIVITIES </strong> </span>
+            <p><span style="color: #8e5b42;">&nbsp; Facebook admin of Tabkaew
+                Viriety Silpakorn University</span></p>
+          </div>
         </div>
       </div>
     </div>
